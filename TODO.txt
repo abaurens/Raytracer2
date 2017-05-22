@@ -1,0 +1,38 @@
+Textures
+  color-maping
+  normal-maping
+
+Quadratics
+  cone
+  sphere
+  sylindre
+  elipsoïde
+  paraboloïde
+  hyperboloïde
+
+Quartique
+  tore
+
+Light Effects
+  synthèse aditive
+  global illumination
+  difuse
+  speculaire
+  Materials
+    transparance
+    reflection
+    refraction
+
+Autre
+  perlin noise
+  screenshot
+  models (.obj)
+
+Postprocessing
+  cel shading
+  anti aliasing
+  sepia
+  N&B
+
+Debug Mode
+  mouvement de camera
